@@ -12,7 +12,7 @@ pipeline{
   stages{
     stage("code checkout"){
       steps{
-        bat "echo hello"
+        bat "echo helloo"
       }
     }
     stage("code build"){
