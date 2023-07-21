@@ -1,0 +1,13 @@
+testCases\TC_RegisterTest.class
+utilities\ExtentReport.class
+base\BaseClass.class
+testCases\TC_DynamicDataTest.class
+testCases\TC_TrainingTest.class
+utilities\ExtractDataFromExcel.class
+testCases\TC_AddToBasketTest.class
+utilities\ExtentSetup.class
+testCases\TC_YouTubeVideoTest.class
+testCases\TC_FileDownloadTest.class
+testCases\TC_LoginTest.class
+testCases\TC_ItemChooseTest.class
+testCases\TC_TestCaseTest.class

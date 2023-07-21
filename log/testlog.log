@@ -1,0 +1,117 @@
+2023-01-25 15:18:50,690 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:18:53,352 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:18:53,364 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:18:53,506 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:18:53,507 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:18:53,708 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:18:54,355 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:22:34,238 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:22:36,161 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:22:36,181 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:22:36,312 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:22:36,323 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:22:36,457 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:22:37,108 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:24:45,437 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:24:47,432 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:24:47,454 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:24:47,598 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:24:47,599 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:24:47,783 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:24:48,441 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:29:24,968 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:29:26,855 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:29:26,863 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:29:27,010 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:29:27,012 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:29:27,766 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:29:28,408 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:31:23,485 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:31:25,348 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:31:25,367 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:31:25,527 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:31:25,527 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:31:26,085 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:31:26,817 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:36:25,782 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:36:27,569 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:36:27,584 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:36:27,710 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:36:27,711 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:36:28,300 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:36:28,988 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:48:33,574 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:48:35,442 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:48:35,459 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:48:35,607 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:48:35,608 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:48:36,229 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:48:36,863 - Bench_Selenium -INFO - Quiting
+2023-01-25 15:56:21,288 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 15:56:23,161 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:56:23,182 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 15:56:23,328 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 15:56:23,329 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 15:56:23,926 - Bench_Selenium -INFO - Saving reports
+2023-01-25 15:56:24,543 - Bench_Selenium -INFO - Quiting
+2023-01-25 17:53:46,191 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 17:53:48,922 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 17:53:48,930 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 17:53:49,078 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 17:53:49,080 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 17:53:49,318 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:54:17,573 - Bench_Selenium -INFO - Test case success
+2023-01-25 17:54:17,580 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:54:28,265 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:54:28,855 - Bench_Selenium -INFO - Click on Shop
+2023-01-25 17:54:40,850 - Bench_Selenium -INFO - Test case success
+2023-01-25 17:54:40,855 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:54:46,223 - Bench_Selenium -INFO - Test case success
+2023-01-25 17:54:46,227 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:54:53,233 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:54:56,653 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:55:07,972 - Bench_Selenium -INFO - Test case success
+2023-01-25 17:55:07,973 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:55:11,025 - Bench_Selenium -INFO - Starting Test
+2023-01-25 17:55:14,032 - Bench_Selenium -INFO - Test Finished
+2023-01-25 17:55:14,565 - Bench_Selenium -INFO - Saving reports
+2023-01-25 17:55:15,317 - Bench_Selenium -INFO - Quiting
+2023-01-25 18:16:58,225 - Bench_Selenium -INFO - using browser chrome
+2023-01-25 18:17:00,170 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 18:17:00,182 - Bench_Selenium -INFO - Managing Timeouts
+2023-01-25 18:17:00,325 - Bench_Selenium -INFO - Initilising Driver
+2023-01-25 18:17:00,325 - Bench_Selenium -INFO - Maximize browser window
+2023-01-25 18:17:03,036 - Bench_Selenium -INFO - Click on Shop
+2023-01-25 18:18:30,565 - Bench_Selenium -INFO - Saving reports
+2023-01-25 18:18:31,371 - Bench_Selenium -INFO - Quiting
+2023-07-13 10:46:00,374 - Bench_Selenium -INFO - using browser chrome
+2023-07-13 10:46:07,282 - Bench_Selenium -INFO - Initilising Driver
+2023-07-13 10:46:07,292 - Bench_Selenium -INFO - Managing Timeouts
+2023-07-13 10:46:07,421 - Bench_Selenium -INFO - Initilising Driver
+2023-07-13 10:46:07,421 - Bench_Selenium -INFO - Maximize browser window
+2023-07-13 10:46:07,657 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:46:42,820 - Bench_Selenium -INFO - Test case success
+2023-07-13 10:46:42,829 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:46:52,827 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:46:53,171 - Bench_Selenium -INFO - Click on Shop
+2023-07-13 10:47:05,242 - Bench_Selenium -INFO - Test case success
+2023-07-13 10:47:05,245 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:47:09,528 - Bench_Selenium -INFO - Test case success
+2023-07-13 10:47:09,533 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:47:14,513 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:47:18,290 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:47:29,481 - Bench_Selenium -INFO - Test case success
+2023-07-13 10:47:29,485 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:47:32,592 - Bench_Selenium -INFO - Starting Test
+2023-07-13 10:47:45,341 - Bench_Selenium -INFO - Test case success
+2023-07-13 10:47:45,343 - Bench_Selenium -INFO - Test Finished
+2023-07-13 10:47:46,158 - Bench_Selenium -INFO - Saving reports
+2023-07-13 10:47:47,009 - Bench_Selenium -INFO - Quiting
+2023-07-20 18:12:13,373 - Bench_Selenium -INFO - using browser chrome
+2023-07-20 18:12:19,546 - Bench_Selenium -INFO - Initilising Driver
+2023-07-20 18:12:19,576 - Bench_Selenium -INFO - Managing Timeouts
+2023-07-20 18:12:19,793 - Bench_Selenium -INFO - Initilising Driver
+2023-07-20 18:12:19,793 - Bench_Selenium -INFO - Maximize browser window
+2023-07-20 18:12:28,255 - Bench_Selenium -INFO - Click on Shop
+2023-07-20 18:13:58,048 - Bench_Selenium -INFO - Saving reports
+2023-07-20 18:13:58,995 - Bench_Selenium -INFO - Quiting

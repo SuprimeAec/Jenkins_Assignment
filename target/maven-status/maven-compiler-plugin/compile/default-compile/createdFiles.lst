@@ -1,0 +1,9 @@
+pageObjects\TrainingPage.class
+pageObjects\loginPage.class
+pageObjects\testcasesPage.class
+pageObjects\youtubevideoPage.class
+pageObjects\itemclickPage.class
+pageObjects\addtobasketPage.class
+pageObjects\dynamicdataPage.class
+pageObjects\filedownloadPage.class
+pageObjects\registerPage.class
